@@ -1,3 +1,3 @@
 # CryptoZombie
 
-开发环境：truffle
+truffle、ganache-gui、solidity、javascript
